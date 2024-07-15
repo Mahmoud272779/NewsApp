@@ -1,0 +1,246 @@
+﻿++Solution 'NewsProject' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:NewsProject.sln
+++NewsProject.Shared
+i:{00000000-0000-0000-0000-000000000000}:NewsProject.Shared
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\shared\bin\debug\net6.0\newsproject.shared.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\shared\bin\debug\net6.0\newsproject.shared.dll
+++Dependencies
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:>1419
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:>2505
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2504
+++Dtos
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\dtos\
+++Models
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\models\
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\models\
+++Category.cs
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\models\category.cs
+++Comment.cs
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\models\comment.cs
+++NewsList.cs
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\models\newslist.cs
+++WeatherForecast.cs
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\weatherforecast.cs
+++Analyzers
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:analyzers
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:analyzers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:analyzers
+++Frameworks
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:frameworks
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:frameworks
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:frameworks
+++Packages
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:packages
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:packages
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:packages
+++NewsListDto.cs
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\dtos\newslistdto.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:d:\work\blazor\blazor course\newsproject\newsproject\shared\microsoft.netcore.app
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\microsoft.netcore.app
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\microsoft.netcore.app
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{de9076e8-08bc-4fbb-a54a-af04846412a4}:>2558
+++NewsProject.Client
+i:{00000000-0000-0000-0000-000000000000}:NewsProject.Client
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\client\bin\debug\net6.0\newsproject.client.dll
+++Connected Services 
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:>2506
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2508
+++Properties
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\properties\
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\properties\
+++launchSettings.json
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\properties\launchsettings.json
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\properties\launchsettings.json
+++wwwroot
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\wwwroot\
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\wwwroot\wwwroot\
+++css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\css\
+++bootstrap
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\bootstrap\
+++open-iconic
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\
+++font
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\readme.md
+++app.css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\app.css
+++Imgs
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\imgs\
+++MainBackGround.jpg
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\imgs\mainbackground.jpg
+++favicon.ico
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\favicon.ico
+++icon-192.png
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\icon-192.png
+++icon-512.png
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\icon-512.png
+++index.html
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\index.html
+++manifest.json
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\manifest.json
+++service-worker.js
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\service-worker.js
+++Components
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\components\
+++HomeComponent.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\components\homecomponent.razor
+++Pages
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\pages\
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\pages\
+++Counter.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\pages\counter.razor
+++FetchData.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\pages\fetchdata.razor
+++Index.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\pages\index.razor
+++Shared
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\
+++MainLayout.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\surveyprompt.razor
+++_Imports.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\_imports.razor
+++App.razor
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\app.razor
+++Program.cs
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\program.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\program.cs
+++No service dependencies discovered
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:>2507
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2509
+++Projects
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:projects
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:projects
+++bootstrap.min.css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\bootstrap\bootstrap.min.css
+++fonts
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\
+++service-worker.published.js
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\service-worker.published.js
+++MainLayout.razor.css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\shared\navmenu.razor.css
+++ILLink.CodeFixProvider
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\users\naggar\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.Extensions.Logging.Generators
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\users\naggar\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.4)
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:>2547
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.4)
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:>2548
+++bootstrap.min.css.map
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++open-iconic-bootstrap.min.css
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{3ae31828-b8d7-4f6b-b239-e56f9684c81a}:d:\work\blazor\blazor course\newsproject\newsproject\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++NewsProject.Server
+i:{00000000-0000-0000-0000-000000000000}:NewsProject.Server
+++Controllers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\controllers\
+++Migrations
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\migrations\
+++Repositories
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\repositories\
+++appsettings.json
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\appsettings.json
+++cfe0b9c3-f0ef-4519-9e6f-564566179191_BG.jpg
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\cfe0b9c3-f0ef-4519-9e6f-564566179191_bg.jpg
+++CategoriesController.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\controllers\categoriescontroller.cs
+++CommentsController.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\controllers\commentscontroller.cs
+++NewsListsController.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\controllers\newslistscontroller.cs
+++WeatherForecastController.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\controllers\weatherforecastcontroller.cs
+++20230122083020_CreateDB.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\migrations\20230122083020_createdb.cs
+++AppDbContextModelSnapshot.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\migrations\appdbcontextmodelsnapshot.cs
+++AppDbContext.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\models\appdbcontext.cs
+++Error.cshtml
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\pages\error.cshtml
+++Intefaces
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\repositories\intefaces\
+++MainRepository.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\repositories\mainrepository.cs
+++appsettings.Development.json
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:c:\users\naggar\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.4)
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2530
+++Microsoft.EntityFrameworkCore (6.0.13)
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2527
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.13)
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2528
+++Microsoft.EntityFrameworkCore.Tools (6.0.13)
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:>2529
+++NewsImages
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\wwwroot\wwwroot\newsimages\
+++20230122083020_CreateDB.Designer.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\migrations\20230122083020_createdb.designer.cs
+++Error.cshtml.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\pages\error.cshtml.cs
+++MainInteface.cs
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\repositories\intefaces\maininteface.cs
+++5de599f0-91dd-465b-a8ce-6899c19115de_BG.jpg
+i:{1c9ce173-a6c9-4a8b-86a2-056030fae21d}:d:\work\blazor\blazor course\newsproject\newsproject\server\wwwroot\wwwroot\newsimages\5de599f0-91dd-465b-a8ce-6899c19115de_bg.jpg

@@ -1,0 +1,17 @@
+﻿@page "/"
+
+<PageTitle>Elsalah-It</PageTitle>
+
+<CascadingValue Value="@FontColor">
+<HomeComponent Name="Ahmed El-Najjar" @attributes="ImageAttribute"></HomeComponent>
+</CascadingValue>
+
+
+@code{
+    public Dictionary<string, object> ImageAttribute { get; set; } = new Dictionary<string, object>
+    {
+        {"src", "/Imgs/MainBackGround.jpg"},
+        {"alt", "No Image Found"}
+    };
+    public string FontColor { get; set; } = "color:blue";
+}

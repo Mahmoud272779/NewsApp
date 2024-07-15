@@ -1,0 +1,12 @@
+﻿<h3 style="@Style">Welcom : "@Name" to Elsalah-IT!</h3>
+
+<img @attributes = "ImageAttribute" style="width:100%;" />
+@code {
+    [Parameter]
+    public string Name { get; set; } = "Ahmed";
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> ImageAttribute { get; set; }
+
+    [CascadingParameter]
+    public string Style { get; set; }
+}
