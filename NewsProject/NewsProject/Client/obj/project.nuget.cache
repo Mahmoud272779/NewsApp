@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nD9z63by/2I=",
+  "dgSpecHash": "fKOEQGqhqFI=",
   "success": true,
   "projectFilePath": "D:\\BlazorWebApp\\NewsApp\\NewsProject\\NewsProject\\Client\\NewsProject.Client.csproj",
   "expectedPackageFiles": [
@@ -36,14 +36,14 @@
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
-    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.8\\microsoft.net.sdk.webassembly.pack.8.0.8.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.32\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.32.nupkg.sha512"
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.33\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.33.nupkg.sha512"
   ],
   "logs": []
 }
